@@ -2,6 +2,11 @@
 
 body {
     background-color: #E6E6E6;
+    font-family: 'Abel', sans-serif;
+}
+
+a {
+    color: black;
 }
 
 h2 {
@@ -16,6 +21,10 @@ h3 {
     font-size: 48px;
     text-transform: uppercase;
     font-family: 'Anton', sans-serif;
+}
+
+p.text-uppercase {
+    text-align: center;
 }
 .large-circles{
     margin: 0;
