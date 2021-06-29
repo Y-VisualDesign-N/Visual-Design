@@ -8,19 +8,18 @@ body {
 a {
     color: black;
 }
-
+h1,h2,h3,h4,h4,h6 {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+}
 h2 {
     text-align: center;
     font-size: 64px;
-    text-transform: uppercase;
-    font-family: 'Anton', sans-serif;
 }
 
 h3 {
     text-align: center;
     font-size: 48px;
-    text-transform: uppercase;
-    font-family: 'Anton', sans-serif;
 }
 
 p.text-uppercase {
@@ -55,7 +54,10 @@ h6 {
 .rounded-circle.blue{
     background-color: #00ABA9;
 }
-
+.logo {
+    width:105px;
+    heaight: 105px;
+}
 
 .span-dot {
     height: 18px;
@@ -78,3 +80,8 @@ h6 {
 .blue-dot {
     background-color: #00ABA9;
 }
+
+.logo img{
+    width:105px;
+}
+
