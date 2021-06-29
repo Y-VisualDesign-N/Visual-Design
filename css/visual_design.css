@@ -94,3 +94,17 @@ h6 {
     font-size: 2em;
 }
 
+.border img{
+    border: solid #e6e6e6 5px;
+    border-radius: 5px;
+    width: 90%;
+
+}
+.side-story-text {
+    font-size: 20px;
+}
+.side img {
+    height: 42px;
+    width: 42px;
+}
+
